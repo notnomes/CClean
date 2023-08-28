@@ -11,7 +11,14 @@
 ###
 
 ```js
-const { log } = require('CClean')
-
 log('hello world 🖐')
+```
+###
+
+<div align="center">
+    📂 You can log errors by
+</div>
+
+```js
+logError('This is an error')
 ```
