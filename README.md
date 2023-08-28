@@ -13,7 +13,9 @@
 ###
 
 ```js
-log('hello world 🖐')
+const cclean = require('cclean')
+
+cclean.log('this is error')
 ```
 ###
 
@@ -24,7 +26,9 @@ log('hello world 🖐')
 ###
 
 ```js
-logError('This is an error')
+const cclean = require('cclean')
+
+cclean.err('this is error')
 ```
 ###
 
@@ -35,7 +39,9 @@ logError('This is an error')
 ###
 
 ```js
-logWarn('This is an Warn')
+const cclean = require('cclean')
+
+cclean.warn('this is warn')
 ```
 ###
 
@@ -45,7 +51,9 @@ logWarn('This is an Warn')
 
 ###
 ```js
-logOk('Everything is good :)')
+const cclean = require('cclean')
+
+cclean.succ('this is succ')
 ```
 ###
 
