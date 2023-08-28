@@ -24,3 +24,25 @@ log('hello world 🖐')
 ```js
 logError('This is an error')
 ```
+###
+
+<div align="center">
+    📂 You can log Warn by
+</div>
+
+###
+
+```js
+logWarn('This is an Warn')
+```
+###
+
+<div align="center">
+    📂 You can log Succes by
+</div>
+
+###
+
+```js
+logOk('Everything is good :)')
+```
