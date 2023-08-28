@@ -1,4 +1,22 @@
 {
-    "name":"CClean",
-    "license":"MIT"
+  "name": "cclean",
+  "license": "MIT",
+  "description": "<div align=\"center\">     🎉 CClean package makes easier </div>",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notnomes/CClean.git"
+  },
+  "keywords": [
+    "cclean"
+  ],
+  "author": "notnome",
+  "bugs": {
+    "url": "https://github.com/notnomes/CClean/issues"
+  },
+  "homepage": "https://github.com/notnomes/CClean#readme"
 }
