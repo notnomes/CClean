@@ -19,6 +19,8 @@ log('hello world 🖐')
     📂 You can log errors by
 </div>
 
+###
+
 ```js
 logError('This is an error')
 ```
