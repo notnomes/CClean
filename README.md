@@ -49,11 +49,7 @@ logOk('Everything is good :)')
 ```
 ###
 
-<div align="center">
-                                    
-                                    📦 You can use it by just download it and do what ever you wont :)
-                                    📕 it open source code you can change it :)
-                                    💻 and its so simple too :)
-</div>
-
-
+<p>🎉 If you are begginer you can see the code</p>
+<p>📕 You can just yonk it from my github</p>
+<p>💻 And its 100% free to use</p>
+<p>made with 💜 from notnome</p>
