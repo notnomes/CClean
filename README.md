@@ -1,4 +1,4 @@
-<h1 align="center">CClean</h1>
+<h1 align="center">🎉 CClean</h1>
 
 <div align="center">
     🎉 CClean package makes easier
@@ -42,6 +42,9 @@ logWarn('This is an Warn')
 <div align="center">
     📂 You can log Succes by
 </div>
+
+###
+<p align="center">📦 You can use it by just download it and do what ever you wont :)</p>
 
 ###
 
