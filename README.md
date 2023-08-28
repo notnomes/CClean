@@ -49,6 +49,9 @@ logOk('Everything is good :)')
 ```
 ###
 <p align="center">📦 You can use it by just download it and do what ever you wont :)</p>
+<p align="center">📕 it open source code you can change it :)</p>
+<p align="center">💻 and its so simple too :)</p>
+
 
 
 
