@@ -11,5 +11,7 @@
 ###
 
 ```js
+const { log } = require('CClean')
+
 log('hello world 🖐')
 ```
